@@ -17,8 +17,6 @@ sbtPlugin := true
 
 organization := "org.clapper"
 
-scalaVersion := "2.8.1"
-
 // ---------------------------------------------------------------------------
 // Additional compiler options and plugins
 
